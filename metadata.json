@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Hexnode IdP - Domain",
+  "description": "Enterprise Identity Provider (IdP) management console and tenant settings for Hexnode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
